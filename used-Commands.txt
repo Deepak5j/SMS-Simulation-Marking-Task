@@ -1,0 +1,29 @@
+Sequence of used Commands- 
+python main.py
+
+read
+yes
+quit
+
+send
+yes
+quit
+
+read
+yyy
+yes
+yes
+
+read
+send
+yes
+nooo
+no
+
+read
+
+send
+yes
+read
+send
+quit

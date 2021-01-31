@@ -1,0 +1,76 @@
+What would you like to do - read/send/quit ? :read
+
+Total unreaded message:  3
+Next Message:  Hello
+Want to mark message 0 as read - yes/no/quit ? :yes
+Message marked as read!!
+Next Message:  WYD
+Want to mark message 1 as read - yes/no/quit ? :quit
+Total unreaded message left:  2
+
+What would you like to do - read/send/quit ? :send
+
+Total message count:  3
+Next Message:  Hello
+Want to send message 0 - yes/no/quit ? :yes
+Message send!!
+Next Message:  WYD
+Want to send message 0 - yes/no/quit ? :quit
+Total message left:  2
+
+What would you like to do - read/send/quit ? :read
+
+Total unreaded message:  2
+Next Message:  WYD
+Want to mark message 0 as read - yes/no/quit ? :yyy 
+Wrong choice, try again
+Next Message:  WYD     
+Want to mark message 0 as read - yes/no/quit ? :yes
+Message marked as read!!
+Next Message:  How are you?
+Want to mark message 1 as read - yes/no/quit ? :yes
+Message marked as read!!
+Total unreaded message left:  0
+
+What would you like to do - read/send/quit ? :read
+
+Total unreaded message:  0
+Total unreaded message left:  0
+
+What would you like to do - read/send/quit ? :send
+
+Total message count:  2
+Next Message:  WYD
+Want to send message 0 - yes/no/quit ? :yes
+Message send!!
+Next Message:  How are you?
+Want to send message 0 - yes/no/quit ? :nooo
+Wrong choice, try again
+Next Message:  How are you?
+Want to send message 0 - yes/no/quit ? :no
+Total message left:  1
+
+What would you like to do - read/send/quit ? :read
+
+Total unreaded message:  0
+Total unreaded message left:  0
+
+What would you like to do - read/send/quit ? :send
+
+Total message count:  1
+Next Message:  How are you?
+Want to send message 0 - yes/no/quit ? :yes
+Message send!!
+Total message left:  0
+
+What would you like to do - read/send/quit ? :read
+
+Total unreaded message:  0
+Total unreaded message left:  0
+
+What would you like to do - read/send/quit ? :send
+
+Total message count:  0
+Total message left:  0
+
+What would you like to do - read/send/quit ? :quit
